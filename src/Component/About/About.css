@@ -1,0 +1,23 @@
+.imgcon{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.con1{
+    margin-left: 3%;
+}
+.img1{
+    width: 1600px;
+    height:300px;
+}
+.big{
+    background-color:black
+}
+.h1{
+    margin-top: 1%;
+    font-size:xx-large
+}
+p{
+    margin-left: 15%;
+    margin-right: 15%;
+}
